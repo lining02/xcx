@@ -37,7 +37,7 @@
     "@tarojs/runtime": "3.0.8",
     "@tarojs/taro": "3.0.8",
     "lodash": "4.17.15",
-    "taro-ui-vue3": "^1.0.0-alpha.17",
+    "taro-ui-vue": "^1.0.0-alpha.13",
     "vue": "^2.5.0",
     "vue-template-compiler": "^2.5.0"
   },
